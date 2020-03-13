@@ -6,3 +6,6 @@ Learn the fundamentals of modern computer vision with convolutional neural netwo
 ## Resources ##
 CNN MNIST visualization online tool:
 https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
+
+
+Note: exmaple based on the PyTorch tutorial on classification https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
